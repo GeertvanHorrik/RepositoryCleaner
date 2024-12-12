@@ -55,7 +55,7 @@
       <ExcludeAssets>runtime</ExcludeAssets>
     </PackageReference>
     <PackageReference Include="Orc.CommandLine" Version="5.0.0" />
-    <PackageReference Include="Orc.Controls" Version="5.0.7" />
+    <PackageReference Include="Orc.Controls" Version="5.1.0" />
     <PackageReference Include="Orc.LogViewer" Version="5.0.0" />
     <PackageReference Include="Orc.Notifications" Version="5.1.0" />
     <PackageReference Include="Orchestra.Core" Version="7.0.2" />
